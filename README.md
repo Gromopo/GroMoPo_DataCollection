@@ -4,3 +4,8 @@ Presentation with GroMoPo sprint information here: https://docs.google.com/prese
 
 # GroMoPo_DataCollection
 Tracking and organizing data (groundwater model description) collection
+
+
+
+# Data Recovery Team Planning Document
+https://docs.google.com/document/d/11PmDJrMwY3dHCS01j-kcuUm4yjMswNZvfiJLpafeeNo/edit?usp=sharing
